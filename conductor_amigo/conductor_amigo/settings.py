@@ -151,5 +151,5 @@ DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 CRISPY_TEMPLATE_PACK = 'bootstrap5'
 
 # Google Maps API Key
-GOOGLE_MAPS_API_KEY = 'AIzaSyBLOVY8AzGli3GfTZ6uq7nCFTvsZSqKrUc'
+GOOGLE_MAPS_API_KEY = ''
 BASE_COUNTRY = "CO" # Colombia
